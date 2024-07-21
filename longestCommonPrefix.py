@@ -1,4 +1,6 @@
-
+### Longest Common Prefix - Completed July 21st, 2024
+## Runtime of 38 ms beats 56.45%
+## Memory of 16.63 MB beats 62.67%
 
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
