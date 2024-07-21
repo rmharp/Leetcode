@@ -1,5 +1,6 @@
-
-
+### Valid Parentheses - Completed July 21st, 2024
+## Runtime of 39 ms beats 31.46%
+## Memory of 16.60 MB beats 11.01%
 
 class Solution:
     def isValid(self, s: str) -> bool:
