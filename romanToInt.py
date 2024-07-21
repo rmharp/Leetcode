@@ -1,3 +1,7 @@
+### Roman to Integer - Completed July 21st, 2024
+## Runtime of 41 ms beats 83.38%
+## Memory of 16.63 MB beats 9.56%
+
 class Solution:
     def romanToInt(self, s: str) -> int:
         romantointdict = {
